@@ -1,5 +1,7 @@
 # FEM
-Elemento Finito. PIC.\n
+Elemento Finito. Semestre 26-27.
+
 Posgrado en Ingeniería Civil.
+
 Facultad de Ingeniería Civil.
-Semestre 26-27.
+
