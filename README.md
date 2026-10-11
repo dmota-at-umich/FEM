@@ -1,7 +1,6 @@
 # FEM
 Elemento Finito. Semestre 26-27.
 
-Posgrado en Ingeniería Civil.
+Posgrado en Ingeniería Civil/Ingeniería Física.
 
-Facultad de Ingeniería Civil.
 
